@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    min-height: 100vh;
+}
+.sidebar{
+    background-color: blue;
+    width: 250px;
+    margin: px;
+    display: flex;
+    box-sizing: border-box;
+}
+
+
+.akhir{
+     
+    text-align: center;
+}
